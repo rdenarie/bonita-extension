@@ -34,6 +34,7 @@
 		<module>component</module>
 		<module>webapps</module>
 		<module>migration</module>
+		<module>ressources</module>
 	</modules>
 
 </project>
